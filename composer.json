@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TheIconic\\Tracking\\GoogleAnalytics\\": "src/"
+            "Grandwebdesign\\Tracking\\GoogleAnalytics\\": "src/"
         }
     }
 }
